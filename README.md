@@ -4,6 +4,10 @@ Excel-based demand forecasting, inventory planning, and purchasing scenario anal
 
 ### Excel | Demand Forecasting | Inventory Planning | Business Analytics
 
+## Executive Dashboard
+
+![2027 Medal Purchasing Forecast Executive Dashboard](executive-dashboard.png)
+
 ## Project Overview
 
 This project demonstrates an Excel-based forecasting and inventory planning solution for a fictional statewide marching competition.
